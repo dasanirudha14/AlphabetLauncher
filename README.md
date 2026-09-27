@@ -132,7 +132,21 @@ cd AlphabetLauncher
 
 ## Screenshots
 
-> *Placeholder: Screenshots of Home Screen, Fisheye Arc Interaction, Floating Letter Bubble, and Empty State.*
+
+### Home Screen
+![Home Screen](screenshots/home.png)
+
+### Alphabet Interaction
+![Alphabet Interaction](screenshots/alphabet_drag.png)
+
+### Filtered Apps
+![Filtered Apps](screenshots/filtered_apps.png)
+
+### Empty State
+![Empty State](screenshots/empty_state.png)
+
+### App Launch
+![App Launch](screenshots/app_launch.png)
 
 ---
 
