@@ -158,4 +158,7 @@ cd AlphabetLauncher
 
 ## AI Usage Disclosure
 
-This project was developed with assistance from Google Antigravity AI agent. The AI assisted with architecture design, Jetpack Compose UI layout implementation, pointer gesture handling, fisheye arc mathematical transformations, and Gradle setup.
+
+AI tools were used as a development assistant during this project. I was responsible for the project concept, implementation, UI decisions, feature integration, testing, debugging, and final verification of the application.
+
+AI assistance was mainly used for exploring implementation approaches, troubleshooting issues, understanding technical concepts, and improving parts of the development process. I reviewed, adapted, tested, and integrated the suggestions into the final project.
