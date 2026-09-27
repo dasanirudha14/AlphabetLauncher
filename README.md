@@ -152,7 +152,7 @@ cd AlphabetLauncher
 
 ## Demo Video
 
-> *Placeholder: Demo video demonstrating smooth A-Z dragging, letter bubble, instant filtering, and app launching.*
+[▶ Watch Alphabet Launcher Demo](https://drive.google.com/file/d/1hni6bf-rd04Jyk1C2q_Q-JXRDXD_wvx9/view?usp=drive_link)
 
 ---
 
